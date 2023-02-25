@@ -10,9 +10,9 @@
 	<h3 class="text-center mb-5">Daftar Nilai Siswa</h3>
         <?php
         $ns1 = ['id'=>1,'nama'=>'sudrajat','nim'=>'0110113771','uts'=>80,'uas'=>84,'tugas'=>78];
-        $ns2 = ['id'=>2,'nama'=>'sudrajat','nim'=>'0112108991','uts'=>70,'uas'=>50,'tugas'=>68];
-        $ns3 = ['id'=>3,'nama'=>'sudrajat','nim'=>'0113014871','uts'=>60,'uas'=>86,'tugas'=>70];
-        $ns4 = ['id'=>4,'nama'=>'sudrajat','nim'=>'0113409121','uts'=>90,'uas'=>91,'tugas'=>82];
+        $ns2 = ['id'=>2,'nama'=>'sugandi','nim'=>'0112108991','uts'=>70,'uas'=>50,'tugas'=>68];
+        $ns3 = ['id'=>3,'nama'=>'suroji','nim'=>'0113014871','uts'=>60,'uas'=>86,'tugas'=>70];
+        $ns4 = ['id'=>4,'nama'=>'sumarno','nim'=>'0113409121','uts'=>90,'uas'=>91,'tugas'=>82];
 
         $ar_nilai = [$ns1, $ns2 , $ns3, $ns4];
 
